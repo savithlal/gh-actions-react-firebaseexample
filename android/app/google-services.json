@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "95822923135",
+    "project_id": "palmtech-48e80",
+    "storage_bucket": "palmtech-48e80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95822923135:android:91b05d889f2304c161064a",
+        "android_client_info": {
+          "package_name": "com.new_gen_reactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95822923135-ssg5uc42b050rpcuo5f70ome7td1i878.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-5R10759AUwQPIOLhcZVmOGvtWuEzzQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95822923135-ssg5uc42b050rpcuo5f70ome7td1i878.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

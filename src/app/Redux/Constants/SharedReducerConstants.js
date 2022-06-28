@@ -1,0 +1,10 @@
+/**
+ * Redux constants for Shared Redux
+ * @author Vivek PS
+ */
+const SHARED_REDUX_ACTION_TYPES = {
+  CHANGE_STATUSBAR_COLOR: 'CHANGE_STATUSBAR_COLOR',
+  CHANGE_STATUSBAR_STYLE: 'CHANGE_STATUSBAR_STYLE',
+};
+
+export default SHARED_REDUX_ACTION_TYPES;
